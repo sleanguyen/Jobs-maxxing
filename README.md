@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
