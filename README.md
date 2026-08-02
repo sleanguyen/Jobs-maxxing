@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
