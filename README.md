@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sleanguyen/Jobs-maxxing/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sleanguyen/Jobs-maxxing/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/sleanguyen/Jobs-maxxing/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
